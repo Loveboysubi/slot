@@ -24,19 +24,18 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-
-~~~
+```
 <html>
 <head>
 <title>Slot Timetable</title>
 </head>
 <body>
 <center>
-<img src="/static/logo.png" height="100" width="500">
+<img src="c:\Users\admin\Pictures\WhatsApp Image 2024-05-05 at 23.25.03_d035a430.jpg" height="100" width="500">
 </center>
 <br>
 <table align="center" width="500" cellspacing="3" cellpadding="2" border="2" bgcolor="yellow">
-<caption><b>SLOT TIME TABLE - VARSHA A (23007006)</b></caption>
+<caption><b>SLOT TIME TABLE -  SUBISHESH P(23006021)</b></caption>
 <tr align="center">
 <th bgcolor="cyan">Day/Time</th>
 <th bgcolor="cyan">Monday</th>
@@ -132,14 +131,11 @@ Execute the program using runserver command.
 </table>
 </body>
 </html>
-~~~
 
-
+```
 ## OUTPUT
-![Screenshot 2024-03-22 135951](https://github.com/04Varsha/slot/assets/149035374/eef95dd8-ea9a-4e6a-b074-566c40eca06f)
 
-
-![Screenshot 2024-03-22 134517](https://github.com/04Varsha/slot/assets/149035374/00bb25f5-a75d-469f-9efa-13ce8905c67b)
+![Screenshot 2024-05-05 233905](https://github.com/Loveboysubi/slot/assets/138970879/19d1a994-341d-46a9-a71d-425faba53913)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
